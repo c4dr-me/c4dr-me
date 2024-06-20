@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!;+This+is+c4dr!;+Welcome+to+my+about-me;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on innovative and user-friendly projects<br>🤝 I’m looking for help with MERN<br>🌱 I’m currently learning React and UI/UX<br>⚡ Fun fact I like to argue with ChatGPT
 
