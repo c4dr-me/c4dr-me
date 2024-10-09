@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on innovative and user-friendly projects<br>🤝 I’m looking for help with MERN<br>🌱 I’m currently learning React and UI/UX<br>⚡ Fun fact I like to argue with ChatGPT
+🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on innovative and user-friendly projects<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning Machine Learning and DSA<br>
 
 
 # 💻 Tech Stack:
